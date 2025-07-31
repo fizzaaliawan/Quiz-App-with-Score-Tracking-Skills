@@ -12,10 +12,10 @@ A responsive and lightweight **Quiz Application** built using plain JavaScript. 
 
 ## 🔧 Skills Demonstrated
 
-* 🎯 JavaScript DOM manipulation
-* 🖱️ Event handling
-* 🔄 Dynamic rendering of quiz content
-* 🧠 Logic building for condition checks and scoring
+* JavaScript DOM manipulation
+* Event handling
+* Dynamic rendering of quiz content
+* Logic building for condition checks and scoring
 
 ## 🚀 Technologies Used
 
