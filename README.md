@@ -26,6 +26,6 @@ A responsive and lightweight **Quiz Application** built using plain JavaScript. 
 ## 📷 Interface Preview
 
 ![alt](https://github.com/fizzaaliawan/Quiz-App-with-Score-Tracking-Skills/blob/0fac5a07b8f89fecdc3861eb857701bb89bdf056/1.PNG)
-![alt](https://github.com/fizzaaliawan/Quiz-App-with-Score-Tracking-Skills/blob/0fac5a07b8f89fecdc3861eb857701bb89bdf056/2.PNG)
+
 
 
